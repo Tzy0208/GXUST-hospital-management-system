@@ -92,3 +92,5 @@ private static void removePatient() {
                 return;  
             }  
         }  
+        System.out.println("未找到对应ID的病患。");  
+    }  
